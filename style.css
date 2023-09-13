@@ -1,0 +1,160 @@
+body{
+	margin: 0;
+	font-family: sans-serif;
+}
+.barra-decontacto{
+	display: flex;
+	justify-content: space-between;
+	background: #232f3e;
+	color: #ddd;
+	font-size: 13px;
+	height: 90px;
+
+
+
+
+	
+
+}
+.barra-decontacto img{
+	width: 15px;
+	height: 15px;
+}
+.barra-decontacto .logo{
+	width: 80px;
+	height: 65px;
+	margin: 20px;
+}
+.qwert{
+	display: flex;
+	align-items: center;
+	gap: 15px;
+
+}
+
+.boton1 a{
+	
+	text-decoration: none;
+	color: black;
+	font-size: 12px;
+	font-weight: bold;
+}
+.boton1{
+
+	display: flex;
+	background: #f90;
+	height: 35px;
+	border-radius: 15px;
+	align-items: center;
+	width: 250px;
+	justify-content: center;
+	margin-right: 20px;
+
+
+
+}
+
+.barra-secundaria{
+	display: flex;
+	justify-content: flex-start;
+	background:#232f3e;
+	color: #ddd;
+	gap: 4px;
+	font-size: 13px;
+	height: 50px;
+
+
+}
+.barra-secundaria img{
+	width: 20px;
+	height: 20px;
+
+}
+.lupita{
+	display: flex;
+	width: 60px;
+	height: 35px;
+	justify-content: flex-start;
+	align-items: flex-end;
+
+}
+.segundo-nivel{
+	width: 100%;
+	display: flex;
+}
+.zxcv{
+	display: flex;
+	justify-content: center;
+	width: 43%;
+}
+.qwertyui{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 15px;
+
+}
+.qwertyui img{
+	width: 15px;
+	height: 15px;
+}
+.contenedor img{
+	
+	width: 100%;
+}
+
+.cuerpo img{
+	width: 20px;
+	height: 20px;
+}
+.boton-final{
+	display: flex;
+	background: #f90;
+	width: 300px;
+	height: 40px;
+	justify-content: center;
+	align-items: center;
+	border-radius: 20px;
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+}
+.boton-final a{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	font-size: 15px;
+
+
+
+}
+.cuerpo{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	position: absolute;
+	font-size: 1.2rem;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+}
+
+.barra-secundaria p{
+	margin: 20px;
+}
+.texto-coloreado{
+	color: #0972d3;
+	text-decoration: none;
+}
+.moncho{
+	text-decoration: none;
+	color: #ddd;
+
+}
+.barra-secundaria a{
+	text-decoration: none;
+	color: #ddd;
+}
